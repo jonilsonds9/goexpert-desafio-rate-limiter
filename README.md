@@ -4,7 +4,7 @@
 
 TODO: Instruções para rodar o projeto (ex: instalação de dependências, configuração do ambiente, comandos para iniciar o servidor, etc.)
 
-## Sobre o Desafio
+## Descrição do Desafio
 
 ### Objetivo: 
 
